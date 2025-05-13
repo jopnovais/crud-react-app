@@ -10,7 +10,6 @@ Aplicação React para acompanhar ações da bolsa em tempo real, utilizando a A
   - Variação percentual
   - Alta e baixa do dia
   - Volume de negociação
-  - Setor de atuação
 - ✅ Atualização manual dos dados
 - ✅ Atualização automática ao adicionar
 - ✅ Animação de carregamento ao buscar dados
