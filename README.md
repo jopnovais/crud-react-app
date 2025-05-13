@@ -95,14 +95,6 @@ npm run build   # Gera a versão de produção
 
 ---
 
-## 💻 Screenshot
-
-Veja como o app aparece em execução:
-
-![Monitor de Ações](./Screenshot_acoes.png)
-
----
-
 ## 📄 Licença
 
 MIT © [João Pedro Novais](https://github.com/jopnovais)
