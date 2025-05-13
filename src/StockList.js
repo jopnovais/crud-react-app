@@ -50,9 +50,6 @@ function StockList({ stocks = [], removeStock, updateStockData }) {
 								<p>
 									<strong>Volume:</strong> {stock.data['06. volume']}
 								</p>
-								<p>
-									<strong>Setor:</strong> {stock.data.sector}
-								</p>
 							</div>
 						) : (
 							<p className='text-gray-500'>Sem dados</p>
