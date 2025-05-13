@@ -63,9 +63,8 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador.
 ├── 📄 index.js
 ├── 📄 StockForm.js
 ├── 📄 StockList.js
-├── 📄 ThemeToggle.js
+├── 📄 useDarkMode.js
 ├── 📄 index.css
-└── 📁 assets (se usar imagens)
 ```
 
 ---
