@@ -39,7 +39,7 @@ npm install
 Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
 
 ```env
-REACT_APP_API_KEY=TFH54T3CWRLN4X3G
+REACT_APP_API_KEY=SUA_API_KEY
 ```
 
 > 🔐 Substitua pela sua chave, que pode ser obtida gratuitamente em [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
